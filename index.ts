@@ -1,1 +1,1 @@
-export { default } from "./VerifyRequest";
+export { default } from "./DataCard";
